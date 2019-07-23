@@ -1,0 +1,26 @@
+/* main.css */
+
+body {
+	background: rgb(156,206,255);
+font-family: 'Playball', cursive;
+
+
+}
+
+h1 {
+	color: rgb(40,49,135);
+}
+
+ol {
+	font-weight: bold;
+}
+
+a {
+	color:rgb(1,74,245);
+    text-decoration: none;
+}
+
+#my_nav_bar{
+	border-style: solid; 
+	border-color: white;
+}
